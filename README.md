@@ -106,11 +106,13 @@ plt.show()
 
 # Output Waveform
 # ASK
-<img width="1271" height="1011" alt="DC EXP 4" src="https://github.com/user-attachments/assets/3ebbb92d-5db0-4d17-ba7f-d467ae996aea" />
+
+<img width="1600" height="918" alt="image" src="https://github.com/user-attachments/assets/e26c1bb3-f08c-44ac-b2b4-f3cc8cac8986" />
 
 # FSK
 
-<img width="1268" height="1008" alt="DC EXP 4 2" src="https://github.com/user-attachments/assets/f62cd952-0a77-4af9-9fc6-7339c9385e00" />
+<img width="1600" height="916" alt="image" src="https://github.com/user-attachments/assets/1c5ec8c1-ecf6-4cb3-b5ca-87ece6b17d77" />
+
 
 
 
